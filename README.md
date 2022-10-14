@@ -57,5 +57,8 @@ Please run the following command to install the required dependencies
 The following video will demonstrate the programs functioanlity 
 <br>
 
+https://user-images.githubusercontent.com/106839365/195943480-db28fb5c-b316-41d6-b04d-cbbb5017b0b8.mp4
+
+
 # Questions 
 Any questions regarding this repository please open an issue, or reach out to me directly via <a href="https://github.com/CoffeeEyes28">GitHub</a> or by email @ <a href="mailto:litm47@gmail.com">litm47@gmail.com</a>
